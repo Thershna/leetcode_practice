@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Thershna/leetcode_practice/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Thershna/leetcode_practice/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -37,5 +38,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Thershna/leetcode_practice/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
