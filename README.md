@@ -124,4 +124,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Thershna/leetcode_practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/Thershna/leetcode_practice/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
