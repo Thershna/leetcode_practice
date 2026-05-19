@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/Thershna/leetcode_practice/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thershna/leetcode_practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1185-day-of-the-week](https://github.com/Thershna/leetcode_practice/tree/main/1185-day-of-the-week/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
