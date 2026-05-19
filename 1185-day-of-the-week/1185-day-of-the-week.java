@@ -19,6 +19,7 @@ class Solution {
         }
         totaldays+=day;
         int index=(totaldays+4)%7;
+        //here index 5 gives friday, in question it was said jan 1 as friday , so we added +4(5-1)
 
         return week[index];
     }
