@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Thershna/leetcode_practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Thershna/leetcode_practice/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Thershna/leetcode_practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Thershna/leetcode_practice/tree/main/0274-h-index/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Thershna/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 | [0274-h-index](https://github.com/Thershna/leetcode_practice/tree/main/0274-h-index/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Heap (Priority Queue)
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thershna/leetcode_practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Thershna/leetcode_practice/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Thershna/leetcode_practice/tree/main/0135-candy/) | Hard |
+| [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Thershna/leetcode_practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Thershna/leetcode_practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thershna/leetcode_practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Trie
