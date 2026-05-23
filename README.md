@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Thershna/leetcode_practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Thershna/leetcode_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Thershna/leetcode_practice/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Thershna/leetcode_practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thershna/leetcode_practice/tree/main/0844-backspace-string-compare/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/Thershna/leetcode_practice/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Thershna/leetcode_practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thershna/leetcode_practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thershna/leetcode_practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Trie
