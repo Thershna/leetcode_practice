@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Thershna/leetcode_practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/Thershna/leetcode_practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Thershna/leetcode_practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/Thershna/leetcode_practice/tree/main/1051-height-checker/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Thershna/leetcode_practice/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Thershna/leetcode_practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Thershna/leetcode_practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/Thershna/leetcode_practice/tree/main/1051-height-checker/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Thershna/leetcode_practice/tree/main/0274-h-index/) | Medium |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/Thershna/leetcode_practice/tree/main/1051-height-checker/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -213,8 +218,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
