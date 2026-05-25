@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Thershna/leetcode_practice/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Thershna/leetcode_practice/tree/main/0541-reverse-string-ii/) | Easy |
+| [0796-rotate-string](https://github.com/Thershna/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thershna/leetcode_practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thershna/leetcode_practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Trie
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/Thershna/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
