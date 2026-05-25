@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Thershna/leetcode_practice/tree/main/1051-height-checker/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Thershna/leetcode_practice/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/Thershna/leetcode_practice/tree/main/1051-height-checker/) | Easy |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
