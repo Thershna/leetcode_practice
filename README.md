@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/Thershna/leetcode_practice/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Thershna/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Thershna/leetcode_practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/Thershna/leetcode_practice/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1539-kth-missing-positive-number](https://github.com/Thershna/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
