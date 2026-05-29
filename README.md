@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Thershna/leetcode_practice/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Thershna/leetcode_practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Thershna/leetcode_practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/Thershna/leetcode_practice/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/Thershna/leetcode_practice/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Thershna/leetcode_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Thershna/leetcode_practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Thershna/leetcode_practice/tree/main/0136-single-number/) | Easy |
+| [0260-single-number-iii](https://github.com/Thershna/leetcode_practice/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Thershna/leetcode_practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Thershna/leetcode_practice/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Thershna/leetcode_practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
