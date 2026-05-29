@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thershna/leetcode_practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Thershna/leetcode_practice/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Thershna/leetcode_practice/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Thershna/leetcode_practice/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Thershna/leetcode_practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Thershna/leetcode_practice/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Thershna/leetcode_practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Thershna/leetcode_practice/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Thershna/leetcode_practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
