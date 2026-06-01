@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Thershna/leetcode_practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Thershna/leetcode_practice/tree/main/0506-relative-ranks/) | Easy |
+| [0704-binary-search](https://github.com/Thershna/leetcode_practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Thershna/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Thershna/leetcode_practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Thershna/leetcode_practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Thershna/leetcode_practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thershna/leetcode_practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/Thershna/leetcode_practice/tree/main/0704-binary-search/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Thershna/leetcode_practice/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/Thershna/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Interactive
