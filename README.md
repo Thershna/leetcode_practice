@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Thershna/leetcode_practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Thershna/leetcode_practice/tree/main/0506-relative-ranks/) | Easy |
+| [0724-find-pivot-index](https://github.com/Thershna/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Thershna/leetcode_practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Thershna/leetcode_practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Thershna/leetcode_practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/Thershna/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
