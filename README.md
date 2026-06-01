@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Thershna/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Thershna/leetcode_practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Thershna/leetcode_practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Thershna/leetcode_practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Thershna/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Thershna/leetcode_practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
