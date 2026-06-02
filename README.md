@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/Thershna/leetcode_practice/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thershna/leetcode_practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0509-fibonacci-number](https://github.com/Thershna/leetcode_practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0866-prime-palindrome](https://github.com/Thershna/leetcode_practice/tree/main/0866-prime-palindrome/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1185-day-of-the-week](https://github.com/Thershna/leetcode_practice/tree/main/1185-day-of-the-week/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thershna/leetcode_practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Thershna/leetcode_practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Thershna/leetcode_practice/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/Thershna/leetcode_practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Thershna/leetcode_practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Thershna/leetcode_practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thershna/leetcode_practice/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Thershna/leetcode_practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
