@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Thershna/leetcode_practice/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Thershna/leetcode_practice/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Thershna/leetcode_practice/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Thershna/leetcode_practice/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Thershna/leetcode_practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Thershna/leetcode_practice/tree/main/0476-number-complement/) | Easy |
