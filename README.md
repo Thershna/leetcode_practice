@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thershna/leetcode_practice/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Thershna/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thershna/leetcode_practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Thershna/leetcode_practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Binary Search
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Thershna/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thershna/leetcode_practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thershna/leetcode_practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thershna/leetcode_practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
