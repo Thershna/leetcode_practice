@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Thershna/leetcode_practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thershna/leetcode_practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Thershna/leetcode_practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Thershna/leetcode_practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thershna/leetcode_practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Thershna/leetcode_practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thershna/leetcode_practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Thershna/leetcode_practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Thershna/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Thershna/leetcode_practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
