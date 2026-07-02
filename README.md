@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Thershna/leetcode_practice/tree/main/0506-relative-ranks/) | Easy |
 | [0704-binary-search](https://github.com/Thershna/leetcode_practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Thershna/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0896-monotonic-array](https://github.com/Thershna/leetcode_practice/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Thershna/leetcode_practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
