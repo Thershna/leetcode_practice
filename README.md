@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1185-day-of-the-week](https://github.com/Thershna/leetcode_practice/tree/main/1185-day-of-the-week/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thershna/leetcode_practice/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Thershna/leetcode_practice/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
