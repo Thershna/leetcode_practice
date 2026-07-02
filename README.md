@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Thershna/leetcode_practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thershna/leetcode_practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/Thershna/leetcode_practice/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Thershna/leetcode_practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thershna/leetcode_practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thershna/leetcode_practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0389-find-the-difference](https://github.com/Thershna/leetcode_practice/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0791-custom-sort-string](https://github.com/Thershna/leetcode_practice/tree/main/0791-custom-sort-string/) | Medium |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/Thershna/leetcode_practice/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Thershna/leetcode_practice/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Thershna/leetcode_practice/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Thershna/leetcode_practice/tree/main/0541-reverse-string-ii/) | Easy |
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Thershna/leetcode_practice/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Thershna/leetcode_practice/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Thershna/leetcode_practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/Thershna/leetcode_practice/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/Thershna/leetcode_practice/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Thershna/leetcode_practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Sliding Window
