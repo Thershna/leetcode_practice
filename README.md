@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Thershna/leetcode_practice/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thershna/leetcode_practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Thershna/leetcode_practice/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/Thershna/leetcode_practice/tree/main/0791-custom-sort-string/) | Medium |
 | [1122-relative-sort-array](https://github.com/Thershna/leetcode_practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Thershna/leetcode_practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Thershna/leetcode_practice/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Thershna/leetcode_practice/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/Thershna/leetcode_practice/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Thershna/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thershna/leetcode_practice/tree/main/0844-backspace-string-compare/) | Easy |
