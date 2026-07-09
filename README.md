@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Thershna/leetcode_practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/Thershna/leetcode_practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Thershna/leetcode_practice/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thershna/leetcode_practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/Thershna/leetcode_practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Thershna/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Thershna/leetcode_practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Thershna/leetcode_practice/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Thershna/leetcode_practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thershna/leetcode_practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thershna/leetcode_practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Thershna/leetcode_practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -327,5 +329,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Thershna/leetcode_practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Thershna/leetcode_practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
