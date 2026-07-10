@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thershna/leetcode_practice/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Thershna/leetcode_practice/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Thershna/leetcode_practice/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
