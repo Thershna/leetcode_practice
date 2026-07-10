@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Thershna/leetcode_practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Thershna/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Thershna/leetcode_practice/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Thershna/leetcode_practice/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Thershna/leetcode_practice/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Thershna/leetcode_practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Thershna/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Thershna/leetcode_practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thershna/leetcode_practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Thershna/leetcode_practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Thershna/leetcode_practice/tree/main/0179-largest-number/) | Medium |
+| [0242-valid-anagram](https://github.com/Thershna/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Thershna/leetcode_practice/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Thershna/leetcode_practice/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Thershna/leetcode_practice/tree/main/0392-is-subsequence/) | Easy |
