@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Thershna/leetcode_practice/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Thershna/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Thershna/leetcode_practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Thershna/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Thershna/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Thershna/leetcode_practice/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Thershna/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Thershna/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Thershna/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Thershna/leetcode_practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Thershna/leetcode_practice/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Thershna/leetcode_practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Thershna/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Thershna/leetcode_practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Thershna/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Thershna/leetcode_practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Thershna/leetcode_practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Thershna/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Thershna/leetcode_practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Thershna/leetcode_practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Thershna/leetcode_practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
