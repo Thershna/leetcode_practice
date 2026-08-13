@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Thershna/leetcode_practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Thershna/leetcode_practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Thershna/leetcode_practice/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Thershna/leetcode_practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Thershna/leetcode_practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Thershna/leetcode_practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thershna/leetcode_practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Thershna/leetcode_practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thershna/leetcode_practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Thershna/leetcode_practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Trie
