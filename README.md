@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Thershna/leetcode_practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thershna/leetcode_practice/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Thershna/leetcode_practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Thershna/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Thershna/leetcode_practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/Thershna/leetcode_practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/Thershna/leetcode_practice/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Thershna/leetcode_practice/tree/main/1122-relative-sort-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Thershna/leetcode_practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thershna/leetcode_practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Thershna/leetcode_practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Heap (Priority Queue)
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0791-custom-sort-string](https://github.com/Thershna/leetcode_practice/tree/main/0791-custom-sort-string/) | Medium |
 | [1122-relative-sort-array](https://github.com/Thershna/leetcode_practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Thershna/leetcode_practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Thershna/leetcode_practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thershna/leetcode_practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Divide and Conquer
